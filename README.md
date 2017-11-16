@@ -1,2 +1,7 @@
+![](./doc/meta/huawei/SUYAI00001_developer.png)
 # OceanConnectHelp
-与开发者共建全联接世界：加入我们，和华为开发者生态一同创新和成长。Building a Better Connected World with Developers : Innovate and Grow with Us Together in the Huawei Developer Ecosystem
+>OceanConnect平台使用过程中的一些支撑文档和代码。
+##资源列表
+####NB-IoT
+- [1-nbiot-liteos-oceanconnect使用NB-IoT连接IoT平台时注意事项](./doc/1-nbiot-liteos-oceanconnect使用NB-IoT连接IoT平台时注意事项.md)
+
