@@ -38,7 +38,7 @@
 [http://developer.huawei.com/ict/forum/thread-25005.html](http://developer.huawei.com/ict/forum/thread-25005.html) 
 一步一步手动调试NB-IoT模块，调试过程中即可完成平台IP、端口号的设置。 
 
-	Step 4：执行“AT+NCDP=IP, PORT”设置需要对接IoT平台的地址，端口为5683。如果执行成功，返回OK。 
+	Step 4：执行“AT+NCDP=IP, PORT”设置需要对接IoT平台的地址、端口。如果执行成功，返回OK。 
 
 
 - 方法2：程序设置。
