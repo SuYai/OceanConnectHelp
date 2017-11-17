@@ -1,4 +1,4 @@
-### 背景说明
+## 背景说明
 
 	项目：1-nbiot-liteos-oceanconnect
 	网络：NB-IoT
@@ -37,9 +37,8 @@
 根据帖子 *【零代码】利用已有Demo快速体验NB-IoT全流程(NB模组篇)* 
 [http://developer.huawei.com/ict/forum/thread-25005.html](http://developer.huawei.com/ict/forum/thread-25005.html) 
 一步一步手动调试NB-IoT模块，调试过程中即可完成平台IP、端口号的设置。 
-
-	Step 4：执行“AT+NCDP=IP, PORT”设置需要对接IoT平台的地址、端口。如果执行成功，返回OK。 
-
-
+```
+Step 4：执行“AT+NCDP=IP, PORT”设置需要对接IoT平台的地址、端口。如果执行成功，返回OK。 
+```
 - 方法2：程序设置。
 目前未在代码中实现，可自由添加。
