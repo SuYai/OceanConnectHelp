@@ -86,7 +86,7 @@
 - 这部分内容是：通过电脑串口调试软件，手动发AT指令，直接发给NB-IoT模块。NB模块返回的信息，直接到电脑串口调试软件。一步一步动手操作，实现连接OceanConnect平台。采用的通讯协议是CoAP协议。
 
 - 点击链接，下载串口调试软件： [Serial_debugging_assistant.rar](../code/Serial_debugging_assistant.rar)  
-- 
+
 ![](./meta/20180103/SUYAI00738.png)
 
 - 波特率：9600。串口号根据电脑实际情况选择。
