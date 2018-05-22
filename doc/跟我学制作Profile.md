@@ -32,7 +32,11 @@
 - 【注意】设备型号、厂商ID、厂商名称，请保证唯一性。例如：HuaweiOneLight***。后面3个星，可由各支队伍的数字编号构成。
 
 ![](./meta/20180522/profile/SUYAI02112.png)
+
+
 ![](./meta/20180522/profile/SUYAI02113.png)
+
+
 ![](./meta/20180522/profile/SUYAI02114.png)
 
 <h3 id="3">3.新建服务</h3>
