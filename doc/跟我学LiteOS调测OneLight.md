@@ -13,7 +13,7 @@
 * [6.下载运行](#6)
 * [7.LOG打印输出](#7)
 * [8.查看OceanConnect平台数据](#8)
-* [9.OceanCOnnect下发命令](#9)
+* [9.OceanConnect下发命令](#9)
 
 
 <h3 id="1">1.获取源代码</h3>
@@ -88,7 +88,7 @@
 ![](./meta/20180522/liteos/SUYAI02360_1.png)
 ![](./meta/20180522/liteos/SUYAI02361.png)
 
-<h3 id="9">9.OceanCOnnect下发命令</h3>
+<h3 id="9">9.OceanConnect下发命令</h3>
 
 ![](./meta/20180522/liteos/SUYAI02362.png)
 ![](./meta/20180522/liteos/SUYAI02363.png)
