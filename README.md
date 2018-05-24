@@ -7,7 +7,7 @@
 #### 华为IoT开发者生态峰会 物联网开发实战 OneLight
 - [跟我学从0开始开发一款物联网产品OneLight](./doc/跟我学从0开始开发一款物联网产品OneLight.md)
 - [如何快速获取OceanConnect平台账号](./doc/如何快速获取OceanConnect平台账号.md)
-- [跟我学制作Profile](./doc/跟我学从0开始开发一款物联网产品OneLight.md)
+- [跟我学制作Profile](./doc/跟我学制作Profile.md)
 - [跟我学在线制作编解码插件](./doc/跟我学在线制作编解码插件.md)
 - [跟我学在线模拟NB设备](./doc/跟我学在线模拟NB设备.md)
 - [跟我学使用NB-IoT连接OceanConnect物联网平台](./doc/跟我学使用NB-IoT连接OceanConnect物联网平台.md)
